@@ -1,0 +1,7 @@
+C:\Users\integralocal\source\repos\DNNModule3\DNNModule3\obj\Debug\DNNModule3.csprojAssemblyReference.cache
+C:\Users\integralocal\source\repos\DNNModule3\DNNModule3\obj\Debug\DNNModule3.csproj.CoreCompileInputs.cache
+C:\Users\integralocal\source\repos\bin\DNNModule3.dll
+C:\Users\integralocal\source\repos\bin\DNNModule3.pdb
+C:\Users\integralocal\source\repos\DNNModule3\DNNModule3\obj\Debug\DNNModule3.csproj.CopyComplete
+C:\Users\integralocal\source\repos\DNNModule3\DNNModule3\obj\Debug\DNNModule3.dll
+C:\Users\integralocal\source\repos\DNNModule3\DNNModule3\obj\Debug\DNNModule3.pdb
